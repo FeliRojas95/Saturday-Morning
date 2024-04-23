@@ -1,0 +1,8 @@
+pais=input("Ingrese el pais donde vive: ")
+ciudad=input("Ingrese ciudad donde vive: ")
+calle=input("Ingrese calle donde vive: ")
+num_casa=input("Ingrese numero de casa: ")
+print("El pais donde vive ud. es: ",pais)
+print("La ciudad donde vive ud. es: ",ciudad)
+print("La calle donde vive ud. es: ",calle)
+print("El numero de casa donde vive ud. es: ",num_casa)
